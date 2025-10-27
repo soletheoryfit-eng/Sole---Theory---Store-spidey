@@ -1,3 +1,5 @@
+import { ron, waOrderLink } from "../components/ui";
+
 export default function Home() {
   return (
     <div style={{maxWidth:760,margin:"40px auto",padding:"0 16px"}}>
