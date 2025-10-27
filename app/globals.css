@@ -1,0 +1,7 @@
+/* Simple CSS to prevent build errors */
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell;
+  background: #fff;
+  color: #000;
+}
