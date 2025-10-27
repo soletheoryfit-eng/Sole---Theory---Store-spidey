@@ -1,4 +1,1 @@
-/** @type {import('next').NextConfig} */
-module.exports = {
-  experimental: {},
-};
+module.exports = {};
